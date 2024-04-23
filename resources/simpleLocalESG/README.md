@@ -59,7 +59,7 @@ statistical properties on the variables.
 This algorithm can be thought of as proceeding in 3 steps. First, we
 generate the iid normal random variables
 $X \sim \mathcal N (0, \mathbf I)$. We then apply the mapping
-$f : X \to dZ^Q$ such that $\dZ^Q \sim \mathcal N (0, \Sigma \, dt)$
+$f : X \to dZ^Q$ such that $dZ^Q \sim \mathcal N (0, \Sigma \, dt)$
 where $$
 \Sigma = 
 \begin{bmatrix}
