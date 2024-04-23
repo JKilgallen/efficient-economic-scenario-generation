@@ -1,0 +1,20 @@
+Package: simpleLocalESG
+Title: Generate Economic Scenarios Locally
+Version: 0.0.0.9000
+Authors@R: 
+    person("Joe", "Meagher", , "joe.meagher@hymans.co.uk", role = c("aut", "cre"))
+Description: 
+    This package allows users to generate stochastic economic scenarios locally.
+    Its intended use is as a tool for developing, testing, and assessing the 
+    performance of economic models.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Suggests: testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Imports: magrittr
+NeedsCompilation: no
+Packaged: 2024-04-23 08:50:33 UTC; JMeagher
+Author: Joe Meagher [aut, cre]
+Maintainer: Joe Meagher <joe.meagher@hymans.co.uk>
