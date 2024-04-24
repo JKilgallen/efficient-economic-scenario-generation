@@ -3,3 +3,6 @@ https://rockt.github.io/2018/04/30/einsum
 https://numpy.org/doc/stable/reference/generated/numpy.einsum.html#numpy.einsum
 
 Antoni: work on analysing the algorithm.
+
+Fokker Planck for the Cox-Ingersoll-Ross Model :
+http://www.diva-portal.org/smash/get/diva2:1148496/FULLTEXT01.pdf
