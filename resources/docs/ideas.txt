@@ -1,0 +1,5 @@
+Tensors
+https://rockt.github.io/2018/04/30/einsum
+https://numpy.org/doc/stable/reference/generated/numpy.einsum.html#numpy.einsum
+
+Antoni: work on analysing the algorithm.
