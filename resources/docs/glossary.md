@@ -16,7 +16,7 @@ It is a graph that plots yields, or interest rates, of bonds that have equal cre
 It is a real-values continuous time stochastic process. Generally, it is denoted by $W_t$ and is characterized by following properties:
 1. $W_0 = 0$ 
 2. $W$ has independet increments, i.e., $W_{t+u} - W_t, u \geq 0$ is independent of $W_s$ for $s<t$ 
-3. $W$ has Gaussian increments, i.e., $W_{t+u} - W_t \approx \mathbb(N) (0,\mu)$
+3. $W$ has Gaussian increments, i.e., $W_{t+u} - W_t \approx \mathbb{N} (0,\mu)$
 4. $W_t$ is almost surely continuous in $t$.
 
 **Risk-Neutral Measure:**
