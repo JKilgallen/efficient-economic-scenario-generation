@@ -1,6 +1,7 @@
 # Project Glossary
 
-**Nominal Interest Rate:** 
+**Nominal Interest Rate:**
+It refers to the interest rate before taking inflation into account.
 **Real Interest Rate:**
 **Yield Curve**
 **Cox-Ingersoll-Ross (CIR) process:**
