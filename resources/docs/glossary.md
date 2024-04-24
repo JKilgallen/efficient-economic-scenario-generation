@@ -1,13 +1,17 @@
 # Project Glossary
 **Nominal Interest Rate:**
 It refers to the interest rate before taking inflation into account.\
+
 **Inflation:**
 It is the rate of increase in prices over given period of time.\
+
 **Real Interest Rate:**
 It referes to the interest that is adjusted to remove the effects of inflation.\
 Real Interest Rate = Nominal Interest Rate - Inflation \
+
 **Yield Curve:**
 It is a graph that plots yields, or interest rates, of bonds that have equal credit quality but differing maturity dates.\
+
 **Weiner Process (Brownian Motion):**
 It is a real-values continuous time stochastic process. Generally, it is denoted by W_t and is characterized by following properties:\
 1. W_0 = 0 
